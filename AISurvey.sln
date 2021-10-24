@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddIntoExcel", "AddIntoExcel\AddIntoExcel.csproj", "{486C2C09-7F57-47F8-90F8-437780654A30}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AISurvey", "AISurvey\AISurvey.csproj", "{4EBC2AD8-CF08-4B16-9344-35A8B593BE93}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{486C2C09-7F57-47F8-90F8-437780654A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486C2C09-7F57-47F8-90F8-437780654A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486C2C09-7F57-47F8-90F8-437780654A30}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4EBC2AD8-CF08-4B16-9344-35A8B593BE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4EBC2AD8-CF08-4B16-9344-35A8B593BE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4EBC2AD8-CF08-4B16-9344-35A8B593BE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4EBC2AD8-CF08-4B16-9344-35A8B593BE93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
